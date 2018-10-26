@@ -1,0 +1,32 @@
+1)
+a.
+ Leikjarvél er hubúnaður sem er þróun umhverfi hannað fyrir fólk til að byggja tölvuleiki.
+ Verktaki notar þá til að búa til leiki fyrir leikjatölvur, farsíma og einkatölvur. 
+ Kjarnastarfsemi sem venjulega er gefin af leikvélar inniheldur flutningsmótor ("renderer") fyrir 2D eða 3D grafík, 
+ eðlisfræði vél eða árekstrarskynjun (og árekstur viðbrögð), hljóð, forskriftarþarfir, fjör, gervigreind, 
+ net, straumspilun, minni stjórnun, þráður, staðsetningarstuðningur, vettvangsskýringarmynd, og 
+ kann að fela í sér myndbandstæki fyrir kvikmyndagerð.
+
+b. Unity og unreal eru báðar mjög góðar leikjavélar þá þarftu að velja eftir hverning leik þú ert að gera, einn gæti
+verið góð í öðru tegund af leik en hin gæti verið betri við aðra tegund af leik eða bara forritunar málið eins og
+unity er með c# en unreal er með c++.
+(ég hef ekki skoðað unreal engin vel)
+
+2)
+a. 2d
+2d leikur er leikur sem þú getur bara verið á tvemur directions t.d. ef það værir top down leikur þá gætir þú verið að labba 
+í allar átti en þú getur ekki hoppað og nema ef þú hefur eitthvað animation sem sýnir að characterinn sé að hoppa. síðan er side view 2d leikur
+þar sem þú getur hoppað og labbað til vinstri og hægri.
+b. 2.5d
+Tvö og hálfvídd (2.5D, annaðhvort þrír fjórðungur og gervi-3D) sjónarmið eru annaðhvort 2D grafísku spár og 
+svipaðar aðferðir sem notaðir eru til að valda myndum eða tjöldum til að líkja eftir því að vera þrívítt þegar 
+í raun þeir eru ekki, eða gameplay í mismunandi þrívíddarvideo.
+t.d. LittleBigPlanet leikirnir eru 2.5d því þeir eru með basically 3d character
+2.5d getur verið lika leikur sem er með 2d einviroment en lookar sem 3d og characterinn er 2d model.
+c. 3d
+3D gaming er interactivecomputer entertainment sem er grafískt kynnt í þremur víddum, breidd og dýpt.
+Aukin dýpt í 2D gaming virkaði könnun á raunverulegri veröld með raunsærri framsetningu.
+d. 4d
+4d leikur er mjög svipað og 3d leikur en að þú getur farið í fourth dimension t.d ég sá einn leik þar sem þeir notuðu 4d þar 
+sem að ef þú komst ekki yfir eitthvað obstical þá fórstu í fourth dimension til að geta labbað í gengum obsticalið og þá varstu
+kominn hinu meiginn við obsitcalið.
